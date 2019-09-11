@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.uber.jaeger</groupId>
+  <artifactId>jaeger-thrift</artifactId>
+  <version>0.25.0</version>
+  <name>jaeger-client</name>
+  <description>Jaeger Java bindings for OpenTracing API</description>
+  <url>https://github.com/uber/jaeger-client-java</url>
+  <licenses>
+    <license>
+      <name>Apache 2.0 License</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>oibe</id>
+      <name>Onwukike Ibe</name>
+      <email>oibe@uber.com</email>
+    </developer>
+    <developer>
+      <id>yurishkuro</id>
+      <name>Yuri Shkuro</name>
+      <email>ys@uber.com</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git@github.com:uber/jaeger-client-java.git</connection>
+    <developerConnection>scm:git:git@github.com:uber/jaeger-client-java.git</developerConnection>
+    <url>git@github.com:uber/jaeger-client-java.git</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>org.apache.thrift</groupId>
+      <artifactId>libthrift</artifactId>
+      <version>0.9.2</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>

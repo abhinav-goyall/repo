@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 11 16:15:32 IST 2019
+problem-spring-common-0.24.0.jar>central=
+problem-spring-common-0.24.0.pom>central=
+problem-spring-common-0.24.0-sources.jar>central=

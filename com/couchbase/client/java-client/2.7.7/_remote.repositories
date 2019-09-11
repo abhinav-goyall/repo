@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 11 16:10:24 IST 2019
+java-client-2.7.7-sources.jar>central=
+java-client-2.7.7.jar>central=
+java-client-2.7.7.pom>central=

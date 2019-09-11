@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 11 16:19:30 IST 2019
+opentracing-spring-cloud-0.1.7-sources.jar>central=
+opentracing-spring-cloud-0.1.7.jar>central=
+opentracing-spring-cloud-0.1.7.pom>central=

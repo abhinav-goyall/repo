@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 11 16:10:04 IST 2019
+couchbase-1.11.3.jar>central=
+couchbase-1.11.3.pom>central=
+couchbase-1.11.3-sources.jar>central=

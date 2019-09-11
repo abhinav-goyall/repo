@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 11 16:19:45 IST 2019
+jaeger-thrift-0.29.0.jar>central=
+jaeger-thrift-0.29.0.pom>central=
+jaeger-thrift-0.29.0-sources.jar>central=
